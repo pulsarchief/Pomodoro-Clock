@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #a32323;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+#clock_img {
+    height: 30px;
+}
+#content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
